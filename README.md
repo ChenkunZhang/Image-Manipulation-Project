@@ -23,3 +23,16 @@ In this project,using 2D arrays to:
 - a loaded image is stored into a `BufferedImage` object. From this object, we can extract each pixel value and store it into a 2D array which we can manipulate.
 - The pixel values are stored as ints because each pixel value in the BufferedImage object is represented by a hexadecimal value which contains the red, green, blue, and alpha components. The maximum value of any of the RGBA values is 255 and the minimum is 0. 
 - There are some methods provided for you in this project which handle the conversion between images and 2D arrays as well as extracting the R, G, B, and A values from a pixel. You will only need to implement methods which work with the 2D arrays.
+
+# Result 
+- ![](apple.jpg)
+- ![](trimmed_apple.jpg)
+- ![](negative_apple.jpg)
+- ![](streched_apple.jpg)
+- ![](shrinked_apple.jpg)
+- ![](inverted_apple.jpg)
+- ![](colored_apple.jpg)
+- ![](random_image.jpg)
+- ![](rectangle_image.jpg)
+- ![](randomRectangle_image.jpg)
+
